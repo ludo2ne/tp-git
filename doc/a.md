@@ -1,4 +1,4 @@
-```{mermaid}
+```mermaid
 stateDiagram
     login : Se connecter
     menu_joueur : Menu Joueur
