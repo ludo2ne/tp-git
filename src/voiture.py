@@ -12,7 +12,7 @@ class Voiture:
     """
 
     def __init__(self, nom, couleur):
-        """Constrfsfgdgfdgddsfucteqfsdur.   """
+        """Constrfsfgdfsfdsfgfdgddsfucteqfsdur.   """
         self.nom = nom
         self.couleur = couleur
         self.vitesse = 0
