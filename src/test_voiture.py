@@ -2,7 +2,7 @@ from voiture import Voiture
 
 class TestVoiture:
 
-    def test_accelere_incremente_vitesse():
+    def test_accelere_incremente_vitesse(self):
         # GIVEN
         v = Voiture("4L", "verte")
         
@@ -12,7 +12,7 @@ class TestVoiture:
         # THEN
         assert v.vitesse == 5
 
-    def test_accelere_limite_increment():
+    def test_accelere_limite_increment(self):
         # GIVEN
         v = Voiture("4L", "verte")
         
